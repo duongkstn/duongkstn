@@ -5,6 +5,7 @@
 <div align="left">🔭 I’m currently working on Natural Language Processing</div>
 <div align="left">🌱 I am curious about AI and Data</div>
 <div align="left">😄 Pronouns: He/Him</div>
+<div align="left">📄 My personal website: https://duongkstn.github.io</div>
 <div align="left">📄 My experiences: https://tinyurl.com/duongkstn</div>
 
 
